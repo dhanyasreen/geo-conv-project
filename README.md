@@ -1,4 +1,4 @@
-# geo-conv-project
+# Geo-conv-project
 
 **Topic:** Variants of Basic Convolution Function — Standard Convolution vs. Dilated (Atrous) Convolution for multi-scale feature recognition in a geographic-imaging system.
 
